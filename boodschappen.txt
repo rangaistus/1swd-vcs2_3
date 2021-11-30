@@ -2,5 +2,12 @@ chips
 cola
 bier
 water
-pindakaas
 pepernoten
+pindakaas
+boter
+chocolade
+koffie
+brood
+thee
+kip
+honing
