@@ -2,8 +2,13 @@ chips
 cola
 bier
 water
-pepernoten
 melk
+pepernoten
+wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
 pindakaas
 boter
 chocolade
