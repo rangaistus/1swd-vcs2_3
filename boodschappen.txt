@@ -3,6 +3,7 @@ cola
 bier
 water
 pepernoten
+melk
 pindakaas
 boter
 chocolade
